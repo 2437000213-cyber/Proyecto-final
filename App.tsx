@@ -272,7 +272,7 @@ export default class App extends React.Component<{}, AppState> {
   }
 
   // -----------------------
-  //      RENDER
+  //      REND
   // -----------------------
   render() {
     const bgColor = this.state.isNight ? '#222' : 'white';
