@@ -149,7 +149,7 @@ export default class App extends React.Component<{}, AppState> {
   }
 
   // -----------------------
-  //        FONDO
+  //        FONDOS
   // -----------------------
   runBackground() {
     if (this.state.status !== 'normal') return;
